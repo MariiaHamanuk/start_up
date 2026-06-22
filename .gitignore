@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+data/postmortems/*
+!data/postmortems/.gitkeep
+qdrant_storage/
+.DS_Store
