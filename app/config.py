@@ -9,6 +9,13 @@ class Settings(BaseSettings):
     chunk_overlap: int = 200
     top_k: int = 5
 
+    use_hybrid_search: bool = True
+    sparse_model: str = "Qdrant/bm25"
+
+    use_reranker: bool = True
+    reranker_model: str = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+    rerank_top_k: int = 3
+
     model_config = {"env_file": ".env"}
 
 

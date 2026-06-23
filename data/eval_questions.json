@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What were the most common reasons startups failed?",
+    "ground_truth": "Common reasons include running out of money, poor product-market fit, team issues, and competition."
+  },
+  {
+    "question": "How did poor product-market fit contribute to startup failures?",
+    "ground_truth": "Startups often built products nobody wanted, failed to validate assumptions early, or targeted the wrong customer segment."
+  },
+  {
+    "question": "What mistakes did founders make when hiring their first team?",
+    "ground_truth": "Founders often hired too fast, chose the wrong co-founders, or prioritized skills over culture fit."
+  },
+  {
+    "question": "How did running out of money cause startups to shut down?",
+    "ground_truth": "Startups burned through runway without hitting milestones, failed to raise follow-on funding, or underestimated burn rate."
+  },
+  {
+    "question": "What did founders say they would do differently if they started over?",
+    "ground_truth": "Founders wished they had validated earlier, focused on fewer features, and talked to customers more before building."
+  },
+  {
+    "question": "How did competition affect startup survival?",
+    "ground_truth": "Some startups were outcompeted by better-funded rivals or large incumbents who copied their product."
+  },
+  {
+    "question": "What role did timing play in startup failures?",
+    "ground_truth": "Some startups were too early for the market, others too late, and timing mismatches with funding cycles caused shutdowns."
+  },
+  {
+    "question": "How did co-founder conflicts lead to company collapse?",
+    "ground_truth": "Disagreements over vision, equity splits, and decision-making authority caused co-founders to split, destabilizing the company."
+  }
+]
