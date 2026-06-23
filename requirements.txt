@@ -16,5 +16,4 @@ fastembed>=0.4.0
 sentence-transformers>=3.0.0
 pandas>=2.0.0
 numpy>=1.26.0
-ragas>=0.2.0
 datasets>=3.0.0
